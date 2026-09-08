@@ -2,7 +2,7 @@
 <h3 align="center">Student & Aspiring Data Scientist / ML Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F6FEB&center=true&vCenter=true&width=500&lines=Building+Machine+Learning+Projects;Turning+Data+into+Decisions;Currently+exploring+Explainable+AI+(SHAP)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+Machine+Learning+Projects;Turning+Data+into+Decisions;Exploring+Explainable+AI+(SHAP)" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -82,8 +82,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhambana&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambana&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhambana&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambana&layout=compact&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
